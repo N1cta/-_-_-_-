@@ -1,1 +1,1 @@
-![alt-текст](path/to/shinel.jpg)# -_-_-_-
+![alt-текст](shinel.jpg)# -_-_-_-
